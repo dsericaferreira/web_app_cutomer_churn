@@ -1,0 +1,4 @@
+streamlit
+ruamel-yaml
+MarkupSafe<2.0.0
+jinja
