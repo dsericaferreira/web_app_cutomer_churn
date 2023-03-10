@@ -5,3 +5,6 @@
 <h3> - Gradient Booster </h3>
 
 <h3> In this webapp the user inserts the values for each feature and sees the accuracy and the prediction of the customer churn using both algorithms. </h3>
+
+<h3> Model accuracy using random forest ~= 61% </h3>
+<h3> Model accuracy using XGBoost ~= 72% </h3>
