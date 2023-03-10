@@ -2,3 +2,4 @@ streamlit
 ruamel-yaml
 sklearn
 category_encoders
+xgboost
